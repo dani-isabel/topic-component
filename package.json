@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "Daniela Bolivar",
   "repository": {
-    "url":"git://github.com/dani-isabel/topic-component.git"
+    "type": "git",
+    "url":"git + https://github.com/dani-isabel/topic-component.git"
   },
+  "license": "MIT",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
