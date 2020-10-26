@@ -6,7 +6,6 @@
   "keywords": [],
   "author": "Daniela Bolivar",
   "repository": {
-    "type": "git",
     "url":"git://github.com/dani-isabel/topic-component.git"
   },
   "license": "MIT",
