@@ -1,6 +1,13 @@
 {
-  "name": "topic",
+  "name": "topic-component",
   "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url":"git://github.com/dani-isabel/topic-component.git"
+  }
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
