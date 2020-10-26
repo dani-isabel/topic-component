@@ -1,5 +1,5 @@
 {
-  "name": "topic-component",
+  "name": "@dani-isabel/topic-component",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -7,11 +7,11 @@
   "author": "Daniela Bolivar",
   "repository": {
     "type": "git",
-    "url":"git + https://github.com/dani-isabel/topic-component.git"
+    "url":"git://github.com/dani-isabel/topic-component.git"
   },
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/"
   },
   "dependencies": {
     "react": "^17.0.1",
